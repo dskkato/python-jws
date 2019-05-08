@@ -6,7 +6,7 @@ def read(fname):
 
 setup(
     name = "jws",
-    version = "0.1.2",
+    version = "0.1.3",
     author = "Brian J Brennan",
     author_email = "brian@nyhacker.org",
     description = ("JSON Web Signatures implementation in Python"),
